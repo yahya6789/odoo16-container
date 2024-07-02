@@ -1,0 +1,14 @@
+addons/*
+!addons/.gitkeep
+
+config/*
+!config/*.example
+
+data/*
+!data/*.gitkeep
+
+logs/*
+!logs/*.gitkeep
+
+postgres/*
+!postgres/*.gitkeep
